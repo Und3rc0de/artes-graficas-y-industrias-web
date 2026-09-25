@@ -150,4 +150,3 @@ window.AGI_EN = {
   'Ajustamos, integramos y acompañamos su uso.':'We refine, integrate and support its use.',
   'Exploremos dónde la IA puede aportar valor':'Let’s explore where AI can add value'
 };
-
