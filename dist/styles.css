@@ -24,4 +24,3 @@
 @keyframes detail-orbit-a{from{transform:rotate(0deg) translateX(116px)}to{transform:rotate(360deg) translateX(116px)}}@keyframes detail-orbit-b{from{transform:rotate(0deg) translateX(86px)}to{transform:rotate(360deg) translateX(86px)}}
 @media(max-width:760px){.detail-satellite.satellite-a{animation-name:detail-orbit-a-mobile}.detail-satellite.satellite-b{animation-name:detail-orbit-b-mobile}}@keyframes detail-orbit-a-mobile{from{transform:rotate(0deg) translateX(82px)}to{transform:rotate(360deg) translateX(82px)}}@keyframes detail-orbit-b-mobile{from{transform:rotate(0deg) translateX(64px)}to{transform:rotate(360deg) translateX(64px)}}
 @media(prefers-reduced-motion:reduce){.orbit,.detail-satellite{animation:none}.detail-satellite.satellite-a{transform:translateX(116px)}.detail-satellite.satellite-b{transform:translateX(-86px)}}
-
