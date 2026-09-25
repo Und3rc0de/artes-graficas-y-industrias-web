@@ -1,0 +1,13 @@
+{
+  "name": "artes-graficas-y-industrias-web",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Sitio estático bilingüe de Artes Gráficas y Industrias",
+  "scripts": {
+    "start": "node scripts/dev-server.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
+
