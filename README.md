@@ -82,4 +82,3 @@ La publicación actual del sitio y este repositorio son independientes. No se in
 ## Licencia
 
 No se incluye una licencia de reutilización en este repositorio. El código público puede consultarse, pero cualquier permiso adicional debe definirlo el titular del proyecto.
-
